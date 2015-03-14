@@ -9,7 +9,7 @@ First of all, get the following from your repositories:
 * flex, bison, gperf
 
 For debian/ubuntu: 
-apt-get install build-essential git flex bison gperf
+apt-get install build-essential git autoconf flex bison gperf
 
 For Arch: 
 sudo pacman -S git flex bison gperf
